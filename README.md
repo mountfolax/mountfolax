@@ -14,7 +14,7 @@ HTML | CSS | Tailwind CSS | JavaScript (currently learning) | Git
 * Mastering JavaScript through hands-on projects and practice.
 
 # 📫 Let's Connect
-X (formerly Twitter): _Mount__
+X (formerly Twitter):[ _Mount__](https://x.com/_Mount__)
 LinkedIn: https://www.linkedin.com/in/quazeem-idris-31a16828b/
 Email: idrisquazeem46@gmail.com
 
