@@ -16,9 +16,9 @@ As a lifelong learner, I believe in staying curious and continuously improving m
   •  **Pronouns:** he/him  
 
 # 📫 Let's Connect
-X (formerly Twitter):[ _Mount__](https://x.com/_Mount__)
-LinkedIn: https://www.linkedin.com/in/quazeem-idris-31a16828b/
-Email: idrisquazeem46@gmail.com
+**X (formerly Twitter)**:**[ _Mount__](https://x.com/_Mount__)**
+**LinkedIn**: **https://www.linkedin.com/in/quazeem-idris-31a16828b/**
+**Email**: **idrisquazeem46@gmail.com**
 
 # 🚀 My Tech Stack
 HTML5 🖥️
