@@ -6,9 +6,7 @@ I'm an aspiring software developer with a passion for exploring the endless poss
 
 As a lifelong learner, I believe in staying curious and continuously improving my skills. Collaboration is key for me—I love working with others to solve challenges and build impactful projects.
 
-# Skills
-# * Languages & Tools:
-HTML | CSS | Tailwind CSS | JavaScript (currently learning) | Git
+# Skills: HTML | CSS | Tailwind CSS | JavaScript (currently learning) | Git
 
 # 🌱 What I'm Working On
 * Mastering JavaScript through hands-on projects and practice.
