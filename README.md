@@ -9,10 +9,11 @@ As a lifelong learner, I believe in staying curious and continuously improving m
 # Skills: HTML | CSS | Tailwind CSS | JavaScript (currently learning) | Git
 
 # 🌱 What I'm Working On
-🔭 **Currently building projects** using **HTML**, **CSS**, and **JavaScript** •  
-🌱 **Focused on mastering JavaScript** and refining front-end skills •  
-💬 **Ask me about** web development and coding challenges •  
-😄 **Pronouns:** he/him
+  • 🔧 **Currently building projects** with **HTML**, **CSS**, and **JavaScript**  
+  • 🚀 **Focused on mastering JavaScript** and building interactive web experiences  
+  • 🌱 **Learning new web technologies** to improve development skills  
+  • 💬 **Ask me about** web development, coding, or problem-solving challenges  
+  • 😎 **Pronouns:** he/him  
 
 # 📫 Let's Connect
 X (formerly Twitter):[ _Mount__](https://x.com/_Mount__)
